@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ifeanyi Madu  
 
-🚀 **UX Engineer | Software Engineer | WordPress Developer | Future AI-Driven Product Builder 
+🚀 **UX Engineer | Software Engineer | WordPress Developer | Future AI-Driven Product Builder | Aspiring AI/ML, Network & Cybersecurity Engineer**
+
 ---
 
 ## 💡 About Me  
